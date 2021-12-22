@@ -1,0 +1,15 @@
+{
+  "name": "img-dupe-cleaner",
+  "version": "0.0.1",
+  "description": "Finds duplicate images in a directory",
+  "main": "main.js",
+  "repository": "git@github.com:FJuette/img-dupe-cleaner.git",
+  "author": "Fabian Juette <Fabian.Juette@tu-clausthal.de>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^16.0.5"
+  }
+}
